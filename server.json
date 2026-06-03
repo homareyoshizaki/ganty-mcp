@@ -1,6 +1,6 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "com.ganty/mcp-server",
+  "name": "app.ganty/mcp-server",
   "title": "Ganty MCP",
   "description": "Gantt chart SaaS with server-side critical path and dependency-aware shift-impact tools, plus CRUD.",
   "version": "1.0.0",
