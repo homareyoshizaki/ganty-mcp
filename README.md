@@ -84,6 +84,7 @@ The calculation logic lives in pure TypeScript functions backed by 28 golden tes
 
 - **Marketing page**: <https://ganty.app/integrations/mcp>
 - **Setup guide**: <https://ganty.app/guide/mcp-integration>
+- **Claude × Gantt guide**: <https://ganty.app/blog/claude-gantt-chart>
 - **Design article**: <https://ganty.app/blog/mcp-server-side-calculation-engine>
 - **Tools by example**: <https://ganty.app/blog/mcp-gantt-chart-5-examples>
 - **Troubleshooting**: <https://ganty.app/blog/mcp-setup-troubleshooting>
